@@ -1,0 +1,11 @@
+#ifndef _TYPES_H
+#define _TYPES_H
+
+typedef unsigned char COLOR;
+typedef unsigned char BYTE;
+typedef char SBYTE;
+typedef char* STRING;
+typedef short INT16;
+typedef 
+
+#endif
